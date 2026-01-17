@@ -22,6 +22,7 @@ Transfer Learning allows us to:
 - TensorFlow / Keras
 - MobileNetV2
 - Matplotlib
+- Venv
 
 ---
 
